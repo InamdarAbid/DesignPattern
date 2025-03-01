@@ -1,0 +1,14 @@
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\bin\Debug\net8.0\DesignPatternExample.exe
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\bin\Debug\net8.0\DesignPatternExample.deps.json
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\bin\Debug\net8.0\DesignPatternExample.runtimeconfig.json
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\bin\Debug\net8.0\DesignPatternExample.dll
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\bin\Debug\net8.0\DesignPatternExample.pdb
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\DesignPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\DesignPatternExample.AssemblyInfoInputs.cache
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\DesignPatternExample.AssemblyInfo.cs
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\DesignPatternExample.csproj.CoreCompileInputs.cache
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\DesignPatternExample.dll
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\refint\DesignPatternExample.dll
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\DesignPatternExample.pdb
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\DesignPatternExample.genruntimeconfig.cache
+D:\Abid\Learning\OOPS and Design Pattern\Design Patterns\DesignPatternExample\obj\Debug\net8.0\ref\DesignPatternExample.dll
